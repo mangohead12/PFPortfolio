@@ -1,11 +1,3 @@
----
-layout: project
-title: "6 DoF General Purpose Robot Arm (WIP)"
-image: /assets/images/
-video: https://youtube.com/…
-permalink:/projects/robot_arm/
----
-
 ## Project: 6-DoF Robotic Arm
 The robot arm was a group project with four other students. 
 The goal was to create a robotic arm with the goal of making mixed drink to order within a 13 week period. 
