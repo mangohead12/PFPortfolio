@@ -77,5 +77,12 @@ Many of the components for the robot were selected spontaneously based on availa
 The main structural aluminum was sourced from the remnant section at Industrial Metal Supply, where we found an 8-foot piece of 6x2-inch 6061 tubing for $40.
 The carbon fiber tubes, aluminum round tubing, and bearings were purchased from Amazon, chosen for their convenient sizes and affordability at the time.
 
+## Gripper Design
+We found limited resources on vacuum cup design, so we began by replicating common vacuum cups used in factory automation and iterated from there.
+
+Through several rounds of testing, we found that the optimal design for holding a large cup of liquid was a cup with a large area, no bellows and a thick base to ensure little flexing while holding.
+
+The current design is 3D printed using Flexible 80A resin on a Form 4 printer, though we also experimented with urethane casting during development.
+
 
 </details>
